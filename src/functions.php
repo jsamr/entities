@@ -1,4 +1,4 @@
-<?php
+<?php namespace Cvsouth\Entities;
 
 if(!function_exists("str_ends"))
 {
