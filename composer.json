@@ -17,6 +17,7 @@
             "Cvsouth\\Entities\\": "src/"
         },
         "files": [
+            "src/functions.php"
         ]
     },
     "minimum-stability": "dev",
